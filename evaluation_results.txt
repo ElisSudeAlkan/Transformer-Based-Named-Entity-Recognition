@@ -1,0 +1,8 @@
+Token-level Accuracy: 0.9593
+
+Per-Class Metrics:
+  Currency: Precision=1.00, Recall=1.00, F1=1.00
+  Location: Precision=0.86, Recall=0.80, F1=0.83
+  Organization: Precision=0.50, Recall=1.00, F1=0.67
+  Person: Precision=0.75, Recall=1.00, F1=0.86
+  Time: Precision=1.00, Recall=0.75, F1=0.86
